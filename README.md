@@ -8,6 +8,9 @@
     how to save/delete/retrieve data using Content Provider
    
 
+<br />
+
+I have developed another [simple android](https://github.com/zumrywahid/ManagerApp.git) app to show how to retrieve content provider data from another app.
 
 
 <br />
